@@ -2,10 +2,7 @@
 title: IoT Pokédex
 layout: single
 permalink: /projects/iot-pokedex/
-header:
-  video:
-    id: dSsDeBJaxFQ
-    provider: youtube
+
 ---
 
 This is a project for one of my classes. The goal of this project was to implement a simple puzzle, sort of like an escape room game, nothing fancy since it is a first-year project, meant to give us a taste of embedded software programming. However, my partner and I went above and beyond and implemented a pokédex, an encyclopedia for pokémon, a popular Nintendo video game franchise.
