@@ -1,7 +1,7 @@
 ---
 title: Snake
 layout: single
-permalink: /project/snake/
+permalink: /projects/snake/
 ---
 
 place holder

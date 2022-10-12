@@ -1,7 +1,7 @@
 ---
 title: DRandomBot
 layout: splash
-permalink: /project/drandombot/
+permalink: /projects/drandombot/
 
 ---
 

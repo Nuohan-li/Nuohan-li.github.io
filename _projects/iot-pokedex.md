@@ -1,7 +1,7 @@
 ---
 title: IoT Pokédex
 layout: single
-permalink: /project/iot-pokedex/
+permalink: /projects/iot-pokedex/
 header:
   video:
     id: dSsDeBJaxFQ

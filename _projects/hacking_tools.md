@@ -1,7 +1,7 @@
 ---
 title: hacking tools
 layout: single
-permalink: /project/hacking-tools/
+permalink: /projects/hacking-tools/
 ---
 
 Disclaimer: This project is meant for fun and educational only, it is not, and should not be used for anything illegal or malicious.

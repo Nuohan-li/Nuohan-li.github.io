@@ -1,7 +1,7 @@
 ---
 title: Optik Engine
 layout: single
-permalink: /project/optik-engine/
+permalink: /projects/optik-engine/
 ---
 
 place holder

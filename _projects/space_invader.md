@@ -1,7 +1,7 @@
 ---
 title: Space Invader
 layout: single
-permalink: /project/space-invader/
+permalink: /projects/space-invader/
 ---
 
 place holder

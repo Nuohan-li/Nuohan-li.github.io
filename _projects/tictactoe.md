@@ -1,7 +1,7 @@
 ---
 title: TicTacToe
 layout: single
-permalink: /project/tictactoe/
+permalink: /projects/tictactoe/
 ---
 
 place holder
