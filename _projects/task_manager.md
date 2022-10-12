@@ -1,7 +1,7 @@
 ---
 title: Task Manager
 layout: single
-permalink: /task-manager/
+permalink: /project/task-manager/
 ---
 
 place holder
