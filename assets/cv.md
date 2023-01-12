@@ -1,6 +1,6 @@
 ---
 layout: single
-title: CV
+title: Nuohan Li
 permalink: /cv/	
 ---
 <html>
@@ -13,7 +13,6 @@ permalink: /cv/
 
     <body>
         
-        <h1>Nuohan Li</h1>
         <p><em>Computer Engineering student at University of Waterloo</em></p>
         <p>github: <a href="https://github.com/Nuohan-li">https://github.com/Nuohan-li </a> </p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/nuohan-li-745353204/">https://www.linkedin.com/in/nuohan-li-745353204/ </a></p>
@@ -25,7 +24,6 @@ permalink: /cv/
         <p>Tools/Framworks: NodeJS, Express, github, Linux, Git, Scapy, Wireshark</p>
         <p>Certification: Nokia Network Routing Specialist I (NRS I)</p>
         <p>Languages spoken and written: English, French, Chinese Mandarin</p>
-        <hr>
 
         <h2>Work Experience</h2>
             <ul>
@@ -129,7 +127,7 @@ permalink: /cv/
                     </ul>
                 </li>
             </ul>
-        <hr>
+        
         <h2>Projects</h2>
         <ul>
             <li>
@@ -152,8 +150,7 @@ permalink: /cv/
             </li>
 
             <li>
-                <p><strong>Hacking Tools</strong> 
-                
+                <p><strong>Hacking Tools</strong></p>
                 <p>Tools used for hacking. The following tools are included:</p>
                 <ul>
                     <li>MAC address changer (change device's MAC address, only works on linux so far)</li>
@@ -174,7 +171,7 @@ permalink: /cv/
             </li>
 
         </ul>
-        <hr>
+        
         <h2>Education</h2>
         <ul>
             <li>
@@ -219,6 +216,3 @@ permalink: /cv/
                 </ul>
             </li>
         </ul>
-        
-    </body>
-</html>
