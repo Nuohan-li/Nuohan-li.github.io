@@ -5,6 +5,8 @@ main:
   - title: "About"
     url: /about/
   - title: "Resume"
-    url: ../assets/Nuohan_Li_Resume_03-10-2022-20-24-19.pdf
+    url: ../assets/Nuohan_Li_Resume_school.pdf
+  - title: "Full CV"
+    url: ../assets/cv.html
   - title: "Projects"
     url: /projects/
