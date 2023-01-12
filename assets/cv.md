@@ -132,21 +132,16 @@ permalink: /cv/
         <ul>
             <li>
                 <p><strong>DRandomBot</strong> 
-                
-                <p>A discord bot that is capable of many things. Get jokes, picutres, weather, music and many more
-                    More functions to be added, such as pokédex and mini games
-                </p>
+                <p>A discord bot that is capable of many things. Get jokes, picutres, weather, music and many more</p>
                 <p>Built using Python</p>
 
             </li>
             <li>
                 <p><strong>Task Manager</strong> 
-                
                 <p>A very simple task manager that allows users to list all their tasks</p>
                 <p>Built mainly using Node.JS. HTML, CSS and JavaScript used for a simple front end. Tasks
-                    are saved in a database, MongoDB
-                </p>
-
+                    are saved in a database, MongoDB</p>
+                
             </li>
 
             <li>
@@ -165,9 +160,9 @@ permalink: /cv/
 
             <li>
                 <p><strong>Snake Game Clone</strong> 
-                
                 <p>Clone of classic snake game on Nokia phones. Followed tutorial on Making Games with Python & Pygame by Al Sweigart</p>
                 <p>Built using Python and Pygame</p>
+
             </li>
 
         </ul>
