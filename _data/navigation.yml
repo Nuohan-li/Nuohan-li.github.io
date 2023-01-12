@@ -7,6 +7,6 @@ main:
   - title: "Resume"
     url: ../assets/Nuohan_Li_Resume_school.pdf
   - title: "Full CV"
-    url: ../assets/cv.html
+    url: /cv/
   - title: "Projects"
     url: /projects/
