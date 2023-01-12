@@ -128,45 +128,6 @@ permalink: /cv/
                 </li>
             </ul>
         
-        <h2>Projects</h2>
-        <ul>
-            <li>
-                <p><strong>DRandomBot</strong> 
-                <p>A discord bot that is capable of many things. Get jokes, picutres, weather, music and many more</p>
-                <p>Built using Python</p>
-
-            </li>
-            <li>
-                <p><strong>Task Manager</strong> 
-                <p>A very simple task manager that allows users to list all their tasks</p>
-                <p>Built mainly using Node.JS. HTML, CSS and JavaScript used for a simple front end. Tasks
-                    are saved in a database, MongoDB</p>
-                
-            </li>
-
-            <li>
-                <p><strong>Hacking Tools</strong></p>
-                <p>Tools used for hacking. The following tools are included:</p>
-                <ul>
-                    <li>MAC address changer (change device's MAC address, only works on linux so far)</li>
-                    <li>Network scanner</li>
-                    <li>ARP spoofing</li>
-                    <li>Sniffer (to capture packets to be analyzed later)</li>
-                </ul>
-                <p> All tools are built using Python and scapy module</p>
-                <p>More tools to come: DNS spoofing, Bypassing HTTPS etc.</p>
-
-            </li>
-
-            <li>
-                <p><strong>Snake Game Clone</strong> 
-                <p>Clone of classic snake game on Nokia phones. Followed tutorial on Making Games with Python & Pygame by Al Sweigart</p>
-                <p>Built using Python and Pygame</p>
-
-            </li>
-
-        </ul>
-        
         <h2>Education</h2>
         <ul>
             <li>
