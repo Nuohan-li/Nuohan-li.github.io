@@ -20,7 +20,7 @@ permalink: /cv/
         <hr>
 
         <h2>Skills</h2>
-        <p>Programming Languages: Java/JavaFX, C/C++, Python, HTML, CSS, JavaScript, Tcl</p>
+        <p>Programming Languages: C/C++, Python, HTML, CSS, JavaScript, Tcl,Java/JavaFX </p>
         <p>Tools/Framworks: NodeJS, Express, github, Linux, Git, Scapy, Wireshark</p>
         <p>Certification: Nokia Network Routing Specialist I (NRS I)</p>
         <p>Languages spoken and written: English, French, Chinese Mandarin</p>
@@ -32,29 +32,25 @@ permalink: /cv/
                     <br>Nokia Corporation</p>
                     <ul>
                         <li>
-                            Developed new automated test scripts and caught many new bugs/issues right before release 
+                            Developed new automated test scripts and identified numerous bugs/issues before release 
                         </li>
                         <li>
-                            Developed new tools/functions in existing frameworks that made developing new tests easier
+                            Created new tools/functions in existing frameworks to simplify test development
                         </li>
                         <li>
-                            Fixed bugs in existing tests and improved their coverage while reducing overall time consumption by 
-                            at least 10%
+                            Fixed bugs in existing tests, improved coverage, and reduced overall time consumption by at least 10%
                         </li>
                         <li> 
-                            Worked on interoperability issues between Cisco and Nokia routers, and fixed test scenarios that
-                            haven't been working for six months
+                            Worked on interoperability issues between Cisco and Nokia routers, resolving test scenarios that had been problematic for six months
                         </li>
                         <li> 
-                            Maintained our team's internal webpage and documented Cisco/Nokia interop issues with possible
-                            solutions and other important procedures. 
+                           Maintained the team's internal webpage and documented Cisco/Nokia interop issues with potential solutions and important procedures
                         </li>
                         <li> 
-                            Ran regression tests to ensure new code does not break existing features 
+                            Ran and monitored regression tests to ensure new code did not break existing features
                         </li>
                         <li> 
-                            Reinforced fundamental knowledge about networking, protocols, and gained knowledge about
-                            encryption at layer 2 (MACsec). Also gained experience working with Cisco IOS devices 
+                            Strengthened networking knowledge, protocols, and gained experience with encryption at layer 2 (MACsec). Also worked with Cisco IOS devices.
                         </li>
                         
                         <br>
@@ -65,21 +61,20 @@ permalink: /cv/
                     <br>Nokia Corporation</p>
                     <ul>
                         <li>
-                            Gained fundamental knowledge about network and many protocols such as
+                            Gained fundamental knowledge about network and  protocols such as
                             OSPF, IS-IS, BGP, MPLS, IP etc. 
                         </li>
                         <li>
-                            Built many different network topologies to simulate real world situations
+                            Built various network topologies to simulate real-world scenarios
                         </li>
                         <li>
-                             Support Technical Assistance Center personnels in resolving complex network issues
+                             Supported Technical Assistance Center personnels in resolving complex network issues
                         </li>
                         <li> 
-                            Build customer netweork in the lab to reproduce the customer issue for R&D to fix 
-                            in the new release
+                            Build customer netweork in the lab to reproduce the customer issue for R&D's reference
                         </li>
                         <li> 
-                            Helped maintaining and troubleshooting Python scripts 
+                            Helped maintain and troubleshoot Python scripts
                         </li>
                         <br>
                     </ul>
@@ -88,13 +83,23 @@ permalink: /cv/
                     <p><strong>Technician</strong> <br>2018 December - 2021 August
                     <br>Dollarama Head Office</p>
                     <ul>
-                        <li>Troubleshot all Dollarama stores' IT equipment including network devices and alarm systems</li>
-                        <li>Supported store personnel with their access to all Dollarama internal systems</li>
-                        <li>Supported district managers with their access to VPN and Windows account</li>
-                        <li>Worked collaboratively with field technicians to solve complex problems</li>
-                        <li>Documented issues, steps taken to resolve them, and tests conducted for future reference</li>
-                        <li>Actively escalated issues to other departments and made sure that problems are resolved in a timely
-                            manner
+                        <li>
+                        Troubleshot IT equipment, including network devices and alarm systems, for all Dollarama stores
+                        </li>
+                        <li>
+                        Supported store personnel with access to Dollarama internal systems
+                        </li>
+                        <li>
+                        Assisted district managers with VPN and Windows account access
+                        </li>
+                        <li>
+                        Collaborated with field technicians to solve complex problems
+                        </li>
+                        <li>
+                        Documented issues, resolutions, and conducted tests for future reference
+                        </li>
+                        <li>
+                        Escalated issues to relevant departments and ensured timely resolutions
                         </li>
                         <br>
                     </ul>
@@ -104,11 +109,11 @@ permalink: /cv/
                     <p><strong>Floor Clerk</strong><br> 2017 September - 2018 December
                     <br>Jean Coutu Pharmacy</p>
                     <ul>
-                        <li>Stock shelves</li>
-                        <li>Manage items in inventory</li>
-                        <li>Answer customer's inquiry</li>
-                        <li>Maintain cleanliness of the store</li>
-                        <li>Process POS transactions</li>
+                        <li>Stocked shelves</li>
+                        <li>Managed inventory</li>
+                        <li>Assisted customers with inquiries</li>
+                        <li>Maintained store cleanliness</li>
+                        <li>Processed POS transactions</li>
                         <br>
                     </ul>
                 </li>
@@ -117,12 +122,12 @@ permalink: /cv/
                     <p><strong>Bike Mechanic</strong><br> 2017 May - 2017 August
                     <br>Vélogik at Carrefour Jeuness Emploi Saint-Laurent</p>
                     <ul>
-                        <li>Replace bike tire</li>
-                        <li>Pacth bike tire's inner tube</li>
-                        <li>Replace bike's brake cable</li>
-                        <li>Replace bike's brake pads</li>
-                        <li>Replace bike seat</li>
-                        <li>Provided training to those who start after me</li>
+                        <li>Replaced bike tires</li>
+                        <li>Pacthed bike tire inner tubes</li>
+                        <li>Replaced bike brake cables</li>
+                        <li>Replaced bike brake pads</li>
+                        <li>Replaced bike seats</li>
+                        <li>Provided training to new employees</li>
                         <br>
                     </ul>
                 </li>
@@ -134,7 +139,7 @@ permalink: /cv/
                 <p><strong>University of Waterloo</strong><br>2021 - 2026</p>
                 <ul>
                     <li>
-                        Candidate for Bachelor of Applied Science in Computer Engineering
+                        Candidate for Bachelor of Applied Science in Electrical Engineering
                     </li>
                 </ul>
             </li>
@@ -144,10 +149,7 @@ permalink: /cv/
                 <ul>
                     <li>
                         
-                        DEC - incomplete, transferred to university. Here are the relevant courses completed: <br>
-                        Programming I & II(Java), Program Development in a Graphical Environment (JavaFX),
-                            Differential Calculus, Integral Calculus and Series, Linear Algebra, Discrete Mathematics, Mechanics, Optics,Waves
-                            and Modern Physics
+                        DEC - incomplete, transferred to university. 
                         
                     </li>
                 </ul>
