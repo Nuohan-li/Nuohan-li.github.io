@@ -28,7 +28,7 @@ permalink: /cv/
         <h2>Work Experience</h2>
             <ul>
                 <li>
-                    <p><strong>Service Router Test Automation Developer</strong> <br>2022 September - 2022 December
+                    <p><strong>Test Automation Developer</strong> <br>2022 September - 2022 December
                     <br>Nokia Corporation</p>
                     <ul>
                         <li>

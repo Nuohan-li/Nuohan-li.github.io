@@ -10,3 +10,8 @@ main:
     url: /cv/
   - title: "Projects"
     url: /projects/
+  - title: "test"
+    url: /md/
+      children: 
+        - title: "test child"
+          url: /404/
