@@ -5,3 +5,4 @@ permalink: /blog/
 ---
 
 blog
+{% include nav_list nav="blog" %}

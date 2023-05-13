@@ -12,6 +12,19 @@ main:
     url: /projects/
   - title: "test"
     url: /blog/
+
+blog: 
+  - title: "Academics"
+    url: /404/
     children: 
-      - title: "test child"
-        url: /404/
+      - title: "place holder 1"
+        url: /cv/
+      - title: "place holder 2"
+        url: /projects/chip8/
+  - title: "Game critique"
+    url: /404/
+    children: 
+      - title: "place holder 1"
+        url: /cv/
+      - title: "place holder 2"
+        url: /projects/chip8/
