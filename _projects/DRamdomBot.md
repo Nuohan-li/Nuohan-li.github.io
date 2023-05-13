@@ -1,6 +1,7 @@
 ---
 title: DRandomBot
-layout: wide
+layout: single
+classes: wide
 permalink: /projects/drandombot/
 
 ---

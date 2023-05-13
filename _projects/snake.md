@@ -1,6 +1,7 @@
 ---
 title: Snake
-layout: wide
+layout: single
+classes: wide
 permalink: /projects/snake/
 ---
 

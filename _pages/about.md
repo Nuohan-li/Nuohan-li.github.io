@@ -1,6 +1,7 @@
 ---
 layout: single
 title: About me
+classes: wide
 permalink: /about/	
 ---
 

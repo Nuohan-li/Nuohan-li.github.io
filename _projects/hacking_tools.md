@@ -1,6 +1,7 @@
 ---
 title: hacking tools
-layout: wide
+layout: single
+classes: wide
 permalink: /projects/hacking-tools/
 ---
 
