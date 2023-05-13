@@ -1,6 +1,7 @@
 ---
 title: CHIP-8
-layout: wide
+layout: single
+classes: wide
 permalink: /projects/chip8/
 
 ---
