@@ -20,7 +20,7 @@ blog:
       - title: "place holder 1"
         url: /cv/
       - title: "place holder 2"
-        url: /projects/chip8/
+        url: /articles/academics/first_article
   - title: "Game critique"
     url: /404/
     children: 
