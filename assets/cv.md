@@ -13,7 +13,7 @@ permalink: /cv/
 
     <body>
         
-        <p><em>Computer Engineering student at University of Waterloo</em></p>
+        <p><em>Electrical Engineering student at University of Waterloo</em></p>
         <p>github: <a href="https://github.com/Nuohan-li">https://github.com/Nuohan-li </a> </p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/nuohan-li-745353204/">https://www.linkedin.com/in/nuohan-li-745353204/ </a></p>
         <p>email: nuohan.li@uwaterloo.ca</p>
@@ -167,7 +167,7 @@ permalink: /cv/
                 <ul>
                     <li>
                         DES - High school diploma <br>
-                        spent 2012 - 2014 in classe d'accueil studying French, started grade 9 in 2015</p>
+                        spent 2012 - 2014 in classe d'accueil studying French, started grade 9 in 2015
                     </li>
                 </ul>
             </li>

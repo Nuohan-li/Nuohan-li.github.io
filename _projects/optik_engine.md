@@ -4,18 +4,17 @@ layout: single
 permalink: /projects/optik-engine/
 ---
 
-Optik engine is a ray-casting game engine, the project is separated into two parts, renderer, and editor. The renderer part, as the name implies, handles the rendering of the game entities, and the editor lets the user create new game entities, define game maps and modify them afterward.
+The Optik engine is a ray-casting game engine consisting of two main components: the renderer and the editor. The renderer handles the rendering of game entities, while the editor enables users to create new game entities, define game maps, and make modifications as needed.
 
-This project is done by a group of four people for our program development in the graphical environment course. While the scope of the project is way beyond what is asked of us, we decided that we would stick to this project, as one of us is extremely talented at programming and he already had the project planned out. Since the project is separated into two parts, we also separated into two groups working on our respective parts. 
+This project was undertaken by a group of four individuals as part of our program development course. Although the project exceeded the requirements of the course, we made the decision to pursue this ambitious endeavor, primarily because one of our group members is a very skilled programmer and had already devised a comprehensive plan for the project. Given the division of tasks, we formed two subgroups, each dedicated to one part of the project.
 
-My partner and I decided to work on the editor part. While this part is not as challenging as renderer, we had never worked on a project of this scale before, and it required us to do a lot of learning outside of the classroom. Here is a screenshot showcasing the editor ![editor](../assets/pic/optik/optik_editor.png)
+My partner and I took on the responsibility of developing the editor. While this portion may not have been as technically challenging as the renderer, it presented a significant learning opportunity for us. Undertaking a project of this scale was a novel experience, requiring extensive self-study beyond what was covered in the classroom. Here is a screenshot showcasing the editor: ![editor](../assets/pic/optik/optik_editor.png)
 
-After some discussion, we decided that my partner would mainly work on the front end, and I will be handling the back end. 
-The major challenge I faced here is JSON files. We needed a way to save the current state of our work, including every entity created, map created, etc. Back then, I had never touched anything about JSON, actually, I don't even think I have heard about JSON then. After some learning, I got a hang of it, it is not as hard as I imagined it to be. Although the structure of our JSON file does get pretty complicated, as we needed entities, within entities we had signals, which are also JSON objects with complex structures. 
+Following discussions, we allocated tasks, with my partner focusing on the front-end development, and I took charge of the back-end implementation. One major challenge I encountered was working with JSON files. We needed a method to save the current state of our work, including all created entities and maps. At that time, I had limited knowledge of JSON. However, through dedicated learning, I quickly grasped its fundamentals. Although our JSON file structure became quite intricate due to the inclusion of entities and nested signal objects, I managed to handle it effectively.
 
-Besides saving the data, we also needed a way to read from the JSON files, by the time I implemented the load function, I was pretty comfortable with JSON already, while I still had some challenges, but they were nothing major. 
+Apart from saving the data, we also needed a way to read from JSON files. By the time I implemented the load function, I had gained significant proficiency in working with JSON. Although a few challenges remained, they were relatively minor in nature.
 
-Overall, this has been a wonderful learning experience for all of us. To me personally, it was my first time programming something serious and working with really talented people to bring a project to reality, despite being a school project.
+Overall, this project served as a remarkable learning experience for all of us. Personally, it marked my first endeavor in programming a substantial and meaningful project, collaborating with highly talented individuals to bring our project to life.
 
 Credits to my teammates:
 - Abderrahman Laoufi (Map & entity editor) <br>

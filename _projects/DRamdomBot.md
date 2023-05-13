@@ -7,14 +7,12 @@ permalink: /projects/drandombot/
 
 *** The bot does not work and needs to be reimplemented ***
 
+DRandomBot is a Discord bot developed using discord.py and Python. It offers a wide range of functionalities, including fetching random dad jokes, cat pictures, and even organizing players for a game of tic-tac-toe, among other things. You can find a comprehensive list of commands on my GitHub page.
 
-DRandomBot is a discord bot built with discord.py and Python. It is capable of doing many things, such as getting a random dad joke, cat pictures, or even coordinating players to play a tictactoe game, etc. A list of commands can be found on my GitHub page.
+Creating this bot was an incredibly enjoyable project, as it brought a lot of liveliness to my Discord server and made it easier for my friends to interact with each other. Thanks to this little bot, I also had the opportunity to learn new Python modules that proved useful for my subsequent major project with a friend.
 
-This was absolutely a fun project to work on as it made my discord server a lot more lively, as it allowed my friends to engage with each other easily in the server.
-Thanks to this little bot, I learned many new modules in Python that helped with the next major project I worked on with my friend.
+Note 1: Unfortunately, discord.py is discontinued by its owner. The library was taken down because the owner, Danny, had to contend with frustration, inconsistency, and bureaucracy while communicating with Discord employees. You can read Danny's post about this decision  <a href="https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1"> here</a> .
 
-While I had a lot of fun making this bot, it is unfortunately no longer functional as discord.py, the library that made this possible, has been taken down by its owner due to the frustration of inconsistency and bureaucracy that he had to deal with when communicating with discord employees. He has become Here is a link to the <a href="https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1"> post made by Danny</a> made by Danny, the author of discord.py, explaining why he has decided to shut down the project.
+Note 2: In a surprising turn of events, the author has recently decided to resume the project. Danny believes that other modules available for creating bots do not meet the same standards. You can read his post on this matter <a href="https://gist.github.com/Rapptz/c4324f17a80c94776832430007ad40e6">here</a>.
 
-Fast forward six months and the author has decided to resume this project, as he feels that other modules to make the bot are not really up to par, see his post <a href="https://gist.github.com/Rapptz/c4324f17a80c94776832430007ad40e6">here</a>.
-
-Even though for now, the bot is no longer working, I would like to eventually migrate it to discord.js using JavaScript, as it seems that there is less “drama” over there, thus ensuring greater stability with my bot. 
+**The bot is currently inactive, I plan to eventually migrate it to discord.js using JavaScript. It appears that the JavaScript ecosystem has less "drama," which would ensure greater stability for my bot in the long run.
