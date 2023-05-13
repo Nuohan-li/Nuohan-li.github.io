@@ -10,8 +10,7 @@ main:
     url: /cv/
   - title: "Projects"
     url: /projects/
-  - title: "test"
-    url: /blog/
+
 
 blog: 
   - title: "Academics"
