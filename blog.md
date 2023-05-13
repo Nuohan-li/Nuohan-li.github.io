@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Nuohan Li
+title: Blog articles
 permalink: /blog/	
 ---
 
