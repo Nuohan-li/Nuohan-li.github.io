@@ -1,6 +1,6 @@
 ---
 title: Optik Engine
-layout: single
+layout: wide
 permalink: /projects/optik-engine/
 ---
 

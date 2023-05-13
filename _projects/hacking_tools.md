@@ -1,6 +1,6 @@
 ---
 title: hacking tools
-layout: single
+layout: wide
 permalink: /projects/hacking-tools/
 ---
 

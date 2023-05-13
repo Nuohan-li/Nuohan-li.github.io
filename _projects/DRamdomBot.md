@@ -1,6 +1,6 @@
 ---
 title: DRandomBot
-layout: single
+layout: wide
 permalink: /projects/drandombot/
 
 ---

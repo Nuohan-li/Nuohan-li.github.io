@@ -1,6 +1,6 @@
 ---
 title: IoT Pokédex
-layout: single
+layout: wide
 permalink: /projects/iot-pokedex/
 
 ---
