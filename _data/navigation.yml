@@ -12,6 +12,6 @@ main:
     url: /projects/
   - title: "test"
     url: /md/
-      children: 
-        - title: "test child"
-          url: /404/
+    children: 
+      - title: "test child"
+        url: /404/
